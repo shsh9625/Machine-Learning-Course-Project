@@ -10,7 +10,7 @@ It contains recordings of 30 participants performing activities of daily living 
 ## Files
 
 - Project_report.pdf - Full project report with methodology, results, and analysis 
-- sample_code.ipynb - Sample code and experiments for activity classification algorithms
+- Machine_Learning_Course_Project.ipynb - Sample code and experiments for activity classification algorithms
 
 ## Results
 
